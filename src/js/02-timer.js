@@ -8,7 +8,7 @@ let indervalId = null;
 let pickDateInMs;
 const DELAY = 1000;
 
-console.log(1)
+
 console.log(Array.from(timerDisplay)) 
 
 const options = {
