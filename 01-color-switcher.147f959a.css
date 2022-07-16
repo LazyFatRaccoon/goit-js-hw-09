@@ -1,0 +1,2 @@
+.btns-container{height:calc(100vh - 66px);justify-content:center;align-items:center;gap:40px;display:flex}.btns-container button{width:120px;height:60px;color:#fff;letter-spacing:.04em;text-transform:uppercase;cursor:pointer;background-color:tomato;border-color:rgba(0,0,0,0);border-radius:4px;font-size:large}.btns-container button:disabled{background-color:gray}
+/*# sourceMappingURL=01-color-switcher.147f959a.css.map */
