@@ -1,0 +1,28 @@
+.btns-container {  
+    height: calc(100vh - 66px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.btns-container button {
+    width: 120px;
+    height: 60px;
+    
+    border-radius: 4px;
+    border-color: transparent;
+
+    background-color: tomato;
+
+    color: white;
+    font-size: large;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+
+    cursor: pointer;
+}
+
+.btns-container button:disabled {
+    background-color: gray;
+}
+
